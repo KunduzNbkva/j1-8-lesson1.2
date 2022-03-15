@@ -23,6 +23,9 @@ public class Main {
         System.out.println(secondResult);
 
         makeTea("черный чай");
+
+
+        System.out.println("Hello");
     }
     public static void makeTea(){   // метод невозвращаемый без входящих параметров
         System.out.println("Принести кружку");
